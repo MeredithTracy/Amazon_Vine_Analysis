@@ -14,12 +14,15 @@ Tools: AWS RDS instances, Google Colab, and pgAdmin
 The image above shows the code we used to answer the questions listed below. 
 
 - How many Vine reviews and non-Vine reviews were there?
+
 There are 170 Vine reviews and 37,840 non-Vine reviews. 
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
 Out of the 170 Vine reviews, 65 of them were 5 stars. For the 37,840 non-Vine reviews, 20,612 of them were 5 stars. 
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
 These numbers equate out to 38.235% for Vine reviews and 54.471% for non-Vine reviews. 
 
 ## Issues with Data
