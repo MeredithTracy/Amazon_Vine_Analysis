@@ -14,13 +14,13 @@ Tools: AWS RDS instances, Google Colab, and pgAdmin
 The image above shows the code we used to answer the questions listed below. 
 
 - How many Vine reviews and non-Vine reviews were there?
---There are 170 Vine reviews and 37,840 non-Vine reviews. 
+    There are 170 Vine reviews and 37,840 non-Vine reviews. 
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
---Out of the 170 Vine reviews, 65 of them were 5 stars. For the 37,840 non-Vine reviews, 20,612 of them were 5 stars. 
+    Out of the 170 Vine reviews, 65 of them were 5 stars. For the 37,840 non-Vine reviews, 20,612 of them were 5 stars. 
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
---These numbers equate out to 38.235% for Vine reviews and 54.471% for non-Vine reviews. 
+    These numbers equate out to 38.235% for Vine reviews and 54.471% for non-Vine reviews. 
 
 ## Issues with Data
 With the dataset I used for this analysis, I did run into some issues with duplicates. This would cause issues when trying to transfer the dataframes to PGAdmin. To correct this issue, I had to remove duplicates in each of my dataframes. Doing this fixed the error. The cause for this error likely sits within the dataset in regards to the ID columns in particular. 
