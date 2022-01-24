@@ -10,6 +10,7 @@ Tools: AWS RDS instances, Google Colab, and pgAdmin
 
 ## Results
 ![D2_Review_Counts](https://github.com/MeredithTracy/Amazon_Vine_Analysis/blob/main/Images/D2_Review_Counts.png)
+
 The image above shows the code we used to answer the questions listed below. 
 
 - How many Vine reviews and non-Vine reviews were there?
